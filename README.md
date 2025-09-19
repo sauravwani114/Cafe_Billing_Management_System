@@ -16,3 +16,20 @@ Programming Language: C
 Tools: VS Code, GCC Compiler
 
 Key Skills: Billing System Development, Tax Calculation, File I/O, Order Management, C Programming.
+
+
+Menu Management Result :
+
+![Alt text](MenuManagementResult.png)
+
+Generated Bill :
+
+![Alt text](GeneratedBill.png)
+
+Summary Result :
+
+![Alt text](SummaryResult.png)
+
+Bills Saved And Exit System :
+
+![Alt text](BillsSavedAndExitSystem.png)
