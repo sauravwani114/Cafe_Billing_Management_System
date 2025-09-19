@@ -11,13 +11,11 @@ Payment Modes: Supports multiple payment modes, including UPI, cash, and card, a
 Data Persistence: Saves bills to a file for easy retrieval, and loads previous bills to provide a summary of past transactions.
 Search and Summary: Allows for searching bills by customer name and provides a summary of sales, including total items sold and payment mode breakdown.
 
-Programming Language: C
+Programming Language: C <br>
+Tools: VS Code, GCC Compiler <br>
+Key Skills: Billing System Development, Tax Calculation, File I/O, Order Management, C Programming. <br>
 
-Tools: VS Code, GCC Compiler
-
-Key Skills: Billing System Development, Tax Calculation, File I/O, Order Management, C Programming.
-
-
+<br>
 Menu Management Result :
 
 ![Alt text](MenuManagementResult.png)
